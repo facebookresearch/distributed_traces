@@ -1,0 +1,4 @@
+env/
+.envrc
+.ipynb_checkpoints/
+generate_figures.html

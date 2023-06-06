@@ -1,0 +1,3 @@
+# these files are stored as .gz, so ignore unzipped versions
+parent-data.csv
+trace-data.csv

@@ -1,0 +1,8 @@
+jupyter
+pandas
+seaborn
+matplotlib
+
+# after adding dependencies, run:
+# python -m pip freeze | tee requirements.txt
+
