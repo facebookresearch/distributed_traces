@@ -1,6 +1,6 @@
 # distributed_traces
 
-Distributed tracing data ([summary_data_atc23](./summary_data_atc23/)) from Meta's microservices architecture used for findings in the [ATC'23 paper][atc23]:
+Distributed tracing data ([summary_data_atc23](./summary_data_atc23/)) from Meta's microservices architecture used for findings in the [USENIX ATC'23 paper][atc23] ([PDF][atc23pdf]):
 
 ```
 @inproceedings {meta-microservices,
@@ -21,3 +21,4 @@ License: [CC BY-NC 4.0](./LICENSE)
 Copyright (c) Meta Platforms, Inc. and affiliates. All rights reserved.
 
 [atc23]: https://www.usenix.org/conference/atc23/presentation/huye
+[atc23pdf]: https://www.usenix.org/system/files/atc23-huye.pdf
